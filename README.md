@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Wallscope](http://www.wallscope.co.uk/)
 
-- 🌱 I’m currently learning **Go, Kubernetes & Kotlin**
+- 🌱 I’m currently learning **Swift, Rust & Kotlin**
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@johnny.strachan)
 
