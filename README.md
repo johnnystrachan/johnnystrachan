@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at [Wallscope](http://www.wallscope.co.uk/)
 
-- 🌱 I’m currently learning **Swift, Rust & Kotlin**
+- 🌱 I’m currently learning **Elixir, Rust & Go**
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@johnny.strachan)
 
-- 💬 Ask me about **Vue, Typescript, Linked Data & SPARQL**
+- 💬 Ask me about **Vue, Typescript, Linked Data & SPARQL, Kotlin, Node**
 
 - ⚡ Fun fact **I'm fluent in French!**
 - :camera: Outside of programming, I spend my time playing video games, taking & developing film photos, and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
