@@ -12,7 +12,7 @@
 - 💬 Ask me about **Vue, Typescript, Linked Data & SPARQL, Kotlin, Node**
 
 - ⚡ Fun fact **I'm fluent in French!**
-- :camera: Outside of programming, I spend my time playing video games, taking & developing film photos, and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
+- :camera: Outside of programming, I spend my time playing video games, taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
