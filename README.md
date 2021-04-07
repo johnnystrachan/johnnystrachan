@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnystrachan&label=Profile%20views&color=0e75b6&style=flat" alt="johnnystrachan" /> </p>
 
-- 🔭 I’m currently working at [Wallscope](http://www.wallscope.co.uk/)
+- 🔭 I’m currently working at [Vortexa](https://www.vortexa.com//)
 
-- 🌱 I’m currently learning **Elixir, Rust & Go**
+- 🌱 I’m currently learning **Kubernetes, AWS**
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@johnny.strachan)
 
