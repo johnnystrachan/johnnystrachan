@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Kubernetes, AWS**
 
-- 📝 I regulary write articles on [Medium](https://medium.com/@johnny.strachan)
-
 - 💬 Ask me about **Vue, Typescript, Linked Data & SPARQL, Kotlin, Node**
 
 - ⚡ Fun fact **I'm fluent in French!**
