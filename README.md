@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Johnny Strachan</h1>
-<h3 align="center">A Full Stack developer from Scotland</h3>
+<h3 align="center">A London based Full Stack developer from Scotland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnystrachan&label=Profile%20views&color=0e75b6&style=flat" alt="johnnystrachan" /> </p>
 
 - 🔭 I’m currently working at [Vortexa](https://www.vortexa.com//)
 - ⚡ Fun fact **I'm fluent in French!**
-- :camera: Outside of programming, I spend my time playing video games, taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
+- :camera: Outside of programming, taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
