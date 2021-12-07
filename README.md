@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Vortexa](https://www.vortexa.com//)
 - ⚡ Fun fact **I'm fluent in French!**
-- :camera: Outside of programming, taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
+- :camera: Outside of programming, I spend my time taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
