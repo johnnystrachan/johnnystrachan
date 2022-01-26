@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnystrachan&label=Profile%20views&color=0e75b6&style=flat" alt="johnnystrachan" /> </p>
 
-- 🔭 I’m currently working at [Vortexa](https://www.vortexa.com//)
+- 🔭 I’m currently working at [Vortexa](https://github.com/vortechsa)
 - ⚡ Fun fact **I'm fluent in French!**
 - :camera: Outside of programming, I spend my time taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
