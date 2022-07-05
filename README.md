@@ -7,5 +7,4 @@
 - ⚡ Working on complex ETL pipeline written in TypeScript, leveraging AWS & Kafka, a React frontend and a complex TS/Node API
 - :camera: Outside of programming, I spend my time taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnystrachan&langs_count=5&theme=tokyonight)]()
 
