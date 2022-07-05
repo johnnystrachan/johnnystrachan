@@ -7,8 +7,7 @@
 - ⚡ Working on complex ETL pipeline written in TypeScript, leveraging AWS & Kafka, a React frontend and a complex TS/Node API
 - :camera: Outside of programming, I spend my time taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/jonathanpstrachan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/jonathanpstrachan" height="30" width="40" /></a>
-<a href="https://instagram.com/johnnystrachan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="johnnystrachan" height="30" width="40" /></a>
-</p>
+[![Johnny's's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnnystrachan)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
