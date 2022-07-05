@@ -8,3 +8,4 @@
 - :camera: Outside of programming, I spend my time taking & developing [film photos](https://www.instagram.com/bxstxrd_film/), and playing music ([shameless plug 1](https://soundcloud.com/alltalkedi) and [shameless plug 2](https://soundcloud.com/johnny-strachan))
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnnystrachan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
